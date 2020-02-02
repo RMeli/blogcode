@@ -1,0 +1,45 @@
+{
+    "conferences": {
+        "Big Ideas for Big Data in Drug Discovery": {
+            "location": "London, UK",
+            "coordinates": [51.507222, -0.1275],
+            "start-date": "12-04-2019",
+            "end-date": "12-04-2019"
+        },
+        
+        "AI in Chemistry": {
+            "location": "Cambridge, UK",
+            "coordinates": [52.205278, 0.119167],
+            "start-date": "02-09-2019",
+            "end-date": "03-09-2019"
+        },
+        
+        "AI@Oxford" : {
+            "location": "Oxford, UK",
+            "coordinates": [51.751944, -1.257778],
+            "start-date": "17-09-2019",
+            "end-date": "18-09-2019"
+        },
+        
+        "SBDD Congress" : {
+            "location": "Sestri Levante, IT",
+            "coordinates": [44.266667, 9.4],
+            "start-date": "23-09-2019",
+            "end-date": "26-09-2019"
+        },
+        
+        "PyPharma" : {
+            "location": "Basel, CH",
+            "coordinates": [47.554722, 7.590556],
+            "start-date": "21-11-2019",
+            "end-date": "22-11-2019"
+        },
+        
+        "MGMS Young Modellers' Forum": {
+            "location": "Greenwich, UK",
+            "coordinates": [51.48, 0],
+            "start-date": "29-11-2019",
+            "end-date": "29-11-2019"
+        }
+    }
+}
